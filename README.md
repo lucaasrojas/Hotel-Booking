@@ -1,7 +1,7 @@
 # HotelFindr
 ### Status: Work in progress
 
-A small project of a booking site that began as technical assessment
+A small project of a booking site that began as a technical assessment
 
 #### Tasks
 - [ ] Catch up with unit tests
@@ -10,6 +10,7 @@ A small project of a booking site that began as technical assessment
 - [ ] Add more hotels
 - [ ] Create user logic with login
 - [ ] Review responsiveness, maybe MaterialUI is not well-implemented
+- [ ] Change vite due to incompatibility with jest
 
 #### Ideas
 - Add animations on the grid when the options pop up
